@@ -1,0 +1,28 @@
+name: lorangerie-test2
+favicon: null
+layout_spectrum: 0.8522126185707748
+typography_spectrum: 0.3110002255998552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.37297591171227396
+  lightness: 0.745140383951366
+  saturation: 0.8406153616961092
+  rhythmicContrast: 0.3436036235652864
+purpose: []
